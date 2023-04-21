@@ -1,0 +1,8 @@
+.row{
+    margin-top:3rem;
+    background: #000;
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
